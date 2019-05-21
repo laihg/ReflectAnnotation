@@ -93,7 +93,7 @@ public class ReflectAnnotationTest {
         }
 
         public void setGroupAbbr(String groupAbbr) {
-            this.groupAbbr = groupAbbr;
+            this.groupAbbr = groupAbbr; 
         }
     }
 }
